@@ -18,3 +18,10 @@ public class Main {
 
     }
 }
+
+//Area of circle is: 63.61725123519331
+// Area of square is: 49.0
+// Area of sphere is: 301.7185584507638
+// Volume of sphere is: 369.60523410218565
+// Area of cube is: 486.0
+// Volume of cube is: 729.0
